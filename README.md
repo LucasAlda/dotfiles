@@ -181,6 +181,10 @@ Reiniciar la consola
 nvm install --lts
 ```
 
+## Swish (gestos touchpad)
+
+Configuracion pendiente (ver en icloud las fotos)
+
 
 
 
