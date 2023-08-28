@@ -105,6 +105,8 @@ Instalar desde la web
 Para reemplazar el cmd+space se tiene que:
 System Preferences > Keyboard > Shortcuts > Spotlight y deshabilitar el shortcut
 
+System Settings > Language & Region > Number Format = 1,234.56 
+
 ### Extensiones 
 - Calendar: dar permiso y activar show events in menu bar: Allways
 - VS Code
